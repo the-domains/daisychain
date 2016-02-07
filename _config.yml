@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.8995703
+color:
+  saturation: 0
+  lightness: 1
+  brandStrength: 0.5032223
+  rhythmicContrast: 0.9844254
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: DaisyChain
